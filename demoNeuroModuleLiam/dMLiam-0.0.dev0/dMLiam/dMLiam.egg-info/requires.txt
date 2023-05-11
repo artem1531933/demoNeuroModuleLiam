@@ -1,0 +1,4 @@
+attrs==22.1.0
+colorama==0.4.6
+pytest==7.2.0
+pluggy==1.0.0
